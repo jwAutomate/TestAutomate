@@ -1,0 +1,7 @@
+api_protocol = "https"
+enterprise = "default"
+git_port = "8989"
+organization = "jw-org-test"
+pipeline = "master"
+server = "jhuntwork-chefautomate-test-jkdsyfutmhmrjpmx.us-east-1.opsworks-cm.io"
+user = "jhuntwork"
